@@ -46,7 +46,7 @@ Removed features:
 
 V3.1 Release Info (Final Update)
 
-Minecraft Scenario Creator Pack for Prisma3D [v3 Release : Final Update] by CreeperCoastal
+Minecraft Scenario Creator Pack for Prisma3D [v3.1 Release : Final Update] by CreeperCoastal
 
 What's new?
 
